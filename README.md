@@ -18,6 +18,9 @@
 ![Dashboard Preview](https://img.shields.io/badge/Dashboard-Preview-blue?style=for-the-badge&logo=react)
 
 **Professional React Dashboard • FastAPI Backend • Real-time Monitoring • ML-Powered Quality Scoring**
+<img width="1454" height="759" alt="Screenshot 2025-08-27 at 22 22 39" src="https://github.com/user-attachments/assets/302b95d9-776c-49b2-9a69-166cac8b57bd" />
+<img width="1456" height="756" alt="Screenshot 2025-08-27 at 22 23 25" src="https://github.com/user-attachments/assets/1d1b33de-4d51-4595-a9a0-3e27fd2fe05a" />
+<img width="1452" height="753" alt="Screenshot 2025-08-27 at 22 23 48" src="https://github.com/user-attachments/assets/493e6dc7-3163-4f3d-b389-e96c81134ced" />
 
 </div>
 
