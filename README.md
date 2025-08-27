@@ -144,6 +144,7 @@ npm start
 ---
 
 ## 🐍 **CLI Commands**
+![Uploading Screenshot 2025-08-27 at 22.17.41.png…]()
 
 ```bash
 # Quality Checks
