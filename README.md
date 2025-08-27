@@ -144,7 +144,8 @@ npm start
 ---
 
 ## 🐍 **CLI Commands**
-![Uploading Screenshot 2025-08-27 at 22.17.41.png…]()
+
+<img width="1463" height="426" alt="Screenshot 2025-08-27 at 22 17 41" src="https://github.com/user-attachments/assets/ed7c2d84-b01e-4245-abe3-573f1a4a841a" />
 
 ```bash
 # Quality Checks
