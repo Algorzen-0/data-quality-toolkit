@@ -266,7 +266,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rishi R Carloni & the Algorzen team**
 
 - 🌐 **Website**: [algorzen.com](https://algorzen.com)
-- 📧 **Email**: contact@algorzen.com
+- 📧 **Email**: rishi@algorzen.com
 - 🐦 **Twitter**: [@algorzen](https://twitter.com/algorzen)
 - 💼 **LinkedIn**: [Algorzen](https://linkedin.com/company/algorzen)
 
